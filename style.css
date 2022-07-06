@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background-color: beige;
+}
+
+img {
+    height: auto;
+    width: 1000px;
+    margin: 30px;
+}
+
+.title-container {
+    width: 1000px;
+    height: 100px;
+    background-color: burlywood;
+    margin: auto;
+    border: 3px black solid;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+
+.menu {
+    font-size: 30px;
+
+}
+
+.menu ul li {
+    margin: 5px;
+}
+
+.menu ul li a {
+    color: black;
+}
